@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhuolinSong
 - 👀 I’m interested in Statistics, Data science, Computer science.
 - 🌱 I’m currently learning Functional data analysis and longitudinal data analysis.
-- 💞️ I’m looking to collaborate on statistics research.
+- 💞️ I’m looking to collaborate in statistics research.
 - 📫 My email: zsong7@ncsu.edu
 
 <!---
